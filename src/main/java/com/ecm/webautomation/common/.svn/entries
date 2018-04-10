@@ -1,0 +1,54 @@
+8
+
+dir
+31387
+https://svn.ecommera.com/qa-automation/automation/trainings/auto-sudarshan/webautomation-test/src/main/java/com/ecm/webautomation/common
+https://svn.ecommera.com/qa-automation
+
+
+
+2018-02-23T13:51:16.837149Z
+31299
+sudarshan.shastri
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+adda5579-93c7-304f-a113-a437aa8ac68b
+
+CommonMethod.java
+file
+
+
+
+
+2018-04-06T06:42:04.307000Z
+f4244878dfcc85746b222e1f620601ec
+2018-02-23T13:51:16.837149Z
+31299
+sudarshan.shastri
+has-props
+
+ConfigurationReader.java
+file
+
+
+
+
+2018-04-06T06:42:04.313000Z
+9d6bda28ea781c5fd35bae408f118a24
+2018-02-20T13:46:41.131029Z
+31286
+sudarshan.shastri
+has-props
+

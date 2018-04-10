@@ -1,0 +1,12 @@
+<suite name="Assessment" >;
+	<test name="Search Text" >;
+ 		<groups>
+ 			<run>
+ 				<include name="SearchText" />
+ 			</run>
+ 		</groups>
+		<classes>
+ 			<class name="com.ecm.webautomation.tests.MyAssessmentTestCases" ></class>
+ 		</classes> 
+	</test>
+</suite>

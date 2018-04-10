@@ -1,0 +1,67 @@
+8
+
+dir
+31387
+https://svn.ecommera.com/qa-automation/automation/trainings/auto-sudarshan/webautomation-test/test-output/Default%20suite
+https://svn.ecommera.com/qa-automation
+
+
+
+2018-03-29T12:08:42.320010Z
+31361
+sudarshan.shastri
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+adda5579-93c7-304f-a113-a437aa8ac68b
+
+Default test.html
+file
+
+
+
+
+2018-04-06T06:42:06.331000Z
+c4104b57d9a83fe68066f4c373ac6ca1
+2018-03-29T12:08:42.320010Z
+31361
+sudarshan.shastri
+has-props
+
+Default test.xml
+file
+
+
+
+
+2018-04-06T06:42:06.336000Z
+0af1baeb027e1123ed4ca495b1c293c5
+2018-03-29T12:08:42.320010Z
+31361
+sudarshan.shastri
+has-props
+
+testng-failed.xml
+file
+
+
+
+
+2018-04-06T06:42:06.340000Z
+1aba5fcf7d8a924e30bb60ba0d635995
+2018-03-29T12:08:42.320010Z
+31361
+sudarshan.shastri
+has-props
+

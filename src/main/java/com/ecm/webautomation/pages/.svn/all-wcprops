@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/qa-automation/!svn/ver/31361/automation/trainings/auto-sudarshan/webautomation-test/src/main/java/com/ecm/webautomation/pages
+END
+ProductDetailPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/qa-automation/!svn/ver/31325/automation/trainings/auto-sudarshan/webautomation-test/src/main/java/com/ecm/webautomation/pages/ProductDetailPage.java
+END
+CartPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/qa-automation/!svn/ver/31258/automation/trainings/auto-sudarshan/webautomation-test/src/main/java/com/ecm/webautomation/pages/CartPage.java
+END
+HomePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/qa-automation/!svn/ver/31317/automation/trainings/auto-sudarshan/webautomation-test/src/main/java/com/ecm/webautomation/pages/HomePage.java
+END
+AddressReviewPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/qa-automation/!svn/ver/31317/automation/trainings/auto-sudarshan/webautomation-test/src/main/java/com/ecm/webautomation/pages/AddressReviewPage.java
+END
+HeaderAndFooter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/qa-automation/!svn/ver/31361/automation/trainings/auto-sudarshan/webautomation-test/src/main/java/com/ecm/webautomation/pages/HeaderAndFooter.java
+END
+PaymentPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/qa-automation/!svn/ver/31317/automation/trainings/auto-sudarshan/webautomation-test/src/main/java/com/ecm/webautomation/pages/PaymentPage.java
+END
+ProductListingPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/qa-automation/!svn/ver/31317/automation/trainings/auto-sudarshan/webautomation-test/src/main/java/com/ecm/webautomation/pages/ProductListingPage.java
+END
+SearchResultPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/qa-automation/!svn/ver/31317/automation/trainings/auto-sudarshan/webautomation-test/src/main/java/com/ecm/webautomation/pages/SearchResultPage.java
+END
+DeliveryPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/qa-automation/!svn/ver/31317/automation/trainings/auto-sudarshan/webautomation-test/src/main/java/com/ecm/webautomation/pages/DeliveryPage.java
+END

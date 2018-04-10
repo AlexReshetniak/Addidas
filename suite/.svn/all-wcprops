@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/qa-automation/!svn/ver/31369/automation/trainings/auto-sudarshan/webautomation-test/suite
+END
+BreadcrumbText.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/qa-automation/!svn/ver/31286/automation/trainings/auto-sudarshan/webautomation-test/suite/BreadcrumbText.xml
+END
+SearchText.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/qa-automation/!svn/ver/31286/automation/trainings/auto-sudarshan/webautomation-test/suite/SearchText.xml
+END
+nightly-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/qa-automation/!svn/ver/31369/automation/trainings/auto-sudarshan/webautomation-test/suite/nightly-build.xml
+END
