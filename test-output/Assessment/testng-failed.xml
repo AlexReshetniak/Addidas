@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="2" name="Failed suite [Assessment]" parallel="tests">
-  <test name="Search Text(failed)" parallel="tests">
+<suite thread-count="3" verbose="3" name="Failed suite [Assessment]" parallel="tests">
+  <test name="[Checkout] - Guest User Checkout(failed)" parallel="tests">
+    <groups>
+      <run>
+        <include name="GuestUserCheckout"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.ecm.webautomation.tests.MyAssessmentTestCases">
+        <methods>
+          <include name="stopSelenium"/>
+          <include name="stopSelenium"/>
+          <include name="stopSelenium"/>
+          <include name="startSelenium"/>
+          <include name="startSelenium"/>
+          <include name="startSelenium"/>
+          <include name="beforeMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeMethod"/>
+          <include name="guestUserCheckout"/>
+        </methods>
+      </class> <!-- com.ecm.webautomation.tests.MyAssessmentTestCases -->
+    </classes>
+  </test> <!-- [Checkout] - Guest User Checkout(failed) -->
+  <test name="[ShopNav] - Search Flow(failed)" parallel="tests">
     <groups>
       <run>
         <include name="SearchText"/>
@@ -13,18 +36,21 @@
           <include name="searchText"/>
           <include name="stopSelenium"/>
           <include name="stopSelenium"/>
+          <include name="stopSelenium"/>
           <include name="startSelenium"/>
           <include name="startSelenium"/>
+          <include name="startSelenium"/>
+          <include name="beforeMethod"/>
           <include name="beforeMethod"/>
           <include name="beforeMethod"/>
         </methods>
       </class> <!-- com.ecm.webautomation.tests.MyAssessmentTestCases -->
     </classes>
-  </test> <!-- Search Text(failed) -->
-  <test name="Guest Checkout(failed)" parallel="tests">
+  </test> <!-- [ShopNav] - Search Flow(failed) -->
+  <test name="[ShopNav] - Breadcrum verification(failed)" parallel="tests">
     <groups>
       <run>
-        <include name="GuestUserCheckout"/>
+        <include name="BreadCrumbText"/>
       </run>
     </groups>
     <classes>
@@ -32,13 +58,16 @@
         <methods>
           <include name="stopSelenium"/>
           <include name="stopSelenium"/>
+          <include name="stopSelenium"/>
+          <include name="startSelenium"/>
           <include name="startSelenium"/>
           <include name="startSelenium"/>
           <include name="beforeMethod"/>
           <include name="beforeMethod"/>
-          <include name="guestUserCheckout"/>
+          <include name="beforeMethod"/>
+          <include name="breadCrumbText"/>
         </methods>
       </class> <!-- com.ecm.webautomation.tests.MyAssessmentTestCases -->
     </classes>
-  </test> <!-- Guest Checkout(failed) -->
+  </test> <!-- [ShopNav] - Breadcrum verification(failed) -->
 </suite> <!-- Failed suite [Assessment] -->

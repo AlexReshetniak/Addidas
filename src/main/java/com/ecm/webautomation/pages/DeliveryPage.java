@@ -42,6 +42,7 @@ public class DeliveryPage extends WebDriverModule {
 	public void CheckoutProduct() {
 		waitForAjaxToComplete();
 		click(Shipping_VerifyAddress);
+		waitForAjaxToComplete();
 	}
 
 }

@@ -49,7 +49,7 @@ public class MyAssessmentTestCases extends WebDriverTestNGModule {
 	private String CCName=ConfigurationReader.get("CCName");
 	private String CVV=ConfigurationReader.get("CVV");
 	private String Month=ConfigurationReader.get("Month");
-	private String year=ConfigurationReader.get("year");
+	private String Year=ConfigurationReader.get("Year");
 	private String URL=ConfigurationReader.get("URL");
 	private String SportsElement=ConfigurationReader.get("SportsElement");
 	private String GenderElement=ConfigurationReader.get("GenderElement");
@@ -94,7 +94,8 @@ public class MyAssessmentTestCases extends WebDriverTestNGModule {
 		deliveryPage.CheckoutProduct();
 		addressReviewPage.continueCheckout();
 		paymentPage.selectPaymentMethod();
-		paymentPage.enterCCDetails(CCNumber, CCName, CVV, Month, year);
+		paymentPage.enterCCDetails(CCNumber, CCName, CVV, Month, Year);
+		paymentPage.submitOrder();
 	}
 	
 	@Test(groups="SearchText", description = "[ShopNav] - Search Flow", enabled=true)
