@@ -67,7 +67,6 @@
 			<artifactId>java-client</artifactId>
 			<version>4.1.2</version>
 		</dependency>
-
 	</dependencies>
 
 	<properties>
